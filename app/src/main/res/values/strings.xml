@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Whatsapp Support</string>
+    <string name="favorite">favorite</string>
+    <string name="content_description_favorite">content discription favorait</string>
+    <string name="search">search</string>
+    <string name="content_description_search">content ddiscription search</string>
+    <string name="more">more</string>
+    <string name="content_description_more">contet discription more</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment 1</string>
+    <string name="hello_blank_fragment2">Hello blank fragment 2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment 3</string>
 </resources>
